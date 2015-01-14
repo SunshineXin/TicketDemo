@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    
+    <color name="bg_sliding_dark">#2b2e33</color>
+    <color name="bg_sliding">#383b42</color>
+    <color name="txt_blue">#FF007CB0</color>
+    <color name="txt_gray">#FF575756</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="txt_orange">#FFEB6100</color>
+    <color name="bg_gray">#FFE3E3E7</color>
+    <color name="orange">#FFE84E0E</color>
+    <color name="bg">#FFF39200</color>
+    <color name="lightblue">#FF007AA2</color>
+    <color name="lightorange">#FFACBA00</color>
+    <color name="red">#FFFF0000</color>
+    <color name="red_header">#b50000</color>
+    <color name="transparentdarkgray">#CC292929</color>
+    <color name="transparentgray">#CC666666</color>
+    <color name="yellow">#ff9933</color>
+    <color name="gray">#ff333333</color>
+    <color name="light_blue">#5CACEE</color>
+    <color name="light_gray">#87CEEB</color>
+    <color name="orgnge">#ffeb5800</color>
+    <color name="orange_red">#613030</color>
+    <color name="whiteGray">#ffC9CACB</color>
+    <color name="nomalGray">#838B83</color>
+    <color name="blue">#436EEE</color>
+    <color name="blue_price">#0158b1</color>
+    <color name="blue_header">#0080cc</color>
+    <color name="blue_bg">#20578f</color>
+    <color name="light_orange">#FFFCBA00</color>
+    <color name="coffee">#622f1b</color>
+    <color name="black2">#80000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="text_num_gray">#333</color>
+    <color name="gray_header">#f5f5f5</color>
+    <color name="gray_home">#ebeced</color>
+    <color name="gray_list">#ACACAC</color>
+    <color name="gray_text">#666666</color>
+    <color name="lightgray">#CCCCCC</color>
+    <color name="dialog_title_blue">#9CCCF7</color>
+    <color name="green_search">#77cb63</color>
+    <color name="green_text">#00ffce</color>
+    <color name="green_price">#279800</color>
+    <color name="bottom_item_line_color">#111111</color>
+    <color name="no_color">#00000000</color>
+    <color name="bg_color">#F4F3F3</color>
+    <color name="bg_color_deep">#E5E5E5</color>
+    <color name="text_color">#434343</color>
+    <color name="black_half">#50000000</color>
+     <color name="lightbackground">#43000000</color>
+    <color name="half_transparent_background">#80000000</color>
+    <color name="bg_member_card">#EAECF1</color>
+    <!-- 半透明色 -->
+    
+    <color name="index_sign">#e3e3e3</color>
+    <color name="index_watch">#4b6fab</color>
+    <color name="index_bag">#e46554</color>
+    <color name="index_shoes">#4994ce</color>
+    <color name="index_goggles">#026a9d</color>
+    <color name="index_dresses">#815092</color>
+    <color name="index_3C">#3c81c8</color>
+    <color name="translucent">#e0000000</color>
+
+
+    <!-- 登录页面 -->
+    <color name="common_edit_unpress_color">#d2e3fd</color>
+    <color name="yellow_horizontal_header_color">#000000</color>
+    <color name="yellow_hind_color">#b6a098</color>
+    <color name="edittext_input_txt_color">#252525</color>
+    <color name="orange_btn_txt_color">#ffebe4</color>
+    <color name="common_txt_color_normal">#1c5aad</color>
+    <color name="common_txt_color_press">#2e8bf2</color>
+    
+    <!-- 二维码 -->
+      <color name="bg_color_code">#EDEDED</color>
+  <color name="contents_text">#ff000000</color>
+  <color name="encode_view">#ffffffff</color>
+  <color name="help_button_view">#ffcccccc</color>
+  <color name="help_view">#ff404040</color>
+  <color name="possible_result_points">#c0ffff00</color>  
+  <color name="result_image_border">#ffffffff</color>
+  <color name="result_minor_text">#ffc0c0c0</color>
+  <color name="result_points">#c000ff00</color>
+  <color name="result_text">#ffffffff</color>
+  <color name="result_view">#b0000000</color>
+  <color name="sbc_header_text">#ff808080</color>
+  <color name="sbc_header_view">#ffffffff</color>
+  <color name="sbc_list_item">#fffff0e0</color>
+  <color name="sbc_layout_view">#ffffffff</color>
+  <color name="sbc_page_number_text">#ff000000</color>
+  <color name="sbc_snippet_text">#ff4b4b4b</color>
+  <color name="share_text">#ff000000</color>
+  <color name="share_view">#ffffffff</color>
+  <color name="status_view">#50000000</color>
+  <color name="status_text">#ffffffff</color>
+  <color name="transparent_code">#00000000</color>
+  <color name="viewfinder_frame">#ff000000</color>
+  <color name="viewfinder_laser">#ffff0000</color>
+  <color name="viewfinder_mask">#60000000</color>
+  <color name="header">#58567D</color>
+  <color name="grgray">#686868</color>
+
+</resources>
